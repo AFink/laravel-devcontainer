@@ -26,7 +26,7 @@ Using this configuration is quite simple. [Download](https://github.com/theomess
 Alternatively, you may use [Git Submodules](https://git-scm.com/book/en/v2/Git-Tools-Submodules). Install the configuration by running
 
 ```sh
-git submodule add https://github.com/theomessin/laravel-devcontainer .devcontainer
+git submodule add https://github.com/afink/laravel-devcontainer .devcontainer
 ```
 
 If you use this method, do not forget to install submodules when cloning:
